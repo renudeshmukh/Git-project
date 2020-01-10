@@ -1,1 +1,2 @@
  This is new file
+File 2 is modified for new feature
