@@ -6,7 +6,5 @@ Feature 1 - Login updated by team member for checking 3 way merging
 
 Feature 2 - Logout
 
-bug1 - fixed
 
-bug2 - fixed
 
